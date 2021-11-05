@@ -1,2 +1,3 @@
-# projeto-instagram
- Replicando a tela inicial do instagram
+# projeto Instagram
+
+ Estudo de replicação da tela inicial do instagram
